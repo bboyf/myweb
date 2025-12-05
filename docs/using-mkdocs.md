@@ -60,11 +60,11 @@ mkdocs serve
 ```bash
 mkdocs build
 ```
-2.  构建后的静态网站将位于 site/ 文件夹中。
+2. 构建后的静态网站将位于 site/ 文件夹中。
 
 ## 第七步：部署到 GitHub Pages
-1.  将 site/ 文件夹中的内容部署到你的网站服务器上。
-2.  你可以使用 GitHub Pages、Netlify、Vercel 等服务来部署你的网站。
+1. 将 site/ 文件夹中的内容部署到你的网站服务器上。
+2. 你可以使用 GitHub Pages、Netlify、Vercel 等服务来部署你的网站。
 
 ### 步骤 1：创建 GitHub 仓库
 1. 登录 GitHub 并点击右上角的 "+" 按钮，选择 New repository 创建一个新仓库。
