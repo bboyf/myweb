@@ -75,23 +75,23 @@ mkdocs build
 1. 在本地项目文件夹中初始化 Git 仓库
 ```bash
   git init
-  ```
+```
 2. 添加远程仓库
 ```bash
   git remote add origin https://github.com/your_username/myweb.git
-  ```
+```
 3. 添加文件到暂存区
 ```bash
   git add .
-  ```
+```
 4. 提交文件
 ```bash
   git commit -m "Initial commit"
-  ```
+```
 5. 推送到 GitHub
 ```bash
   git push -u origin master
-  ```
+```
 ### 步骤 3：使用 mkdocs gh-deploy 部署到 GitHub Pages
 1. 安装 GitHub Pages 插件（如果尚未安装）：
 ```bash
