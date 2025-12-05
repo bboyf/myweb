@@ -1,3 +1,4 @@
 site_name: My Blog
 theme:
   name: material
+  site_url: https://github.com/bboyf/myweb.git
